@@ -8,6 +8,12 @@ Requirements
 
 jQuery, Font-Awesome
 
+Installation
+=====
+Using bower is the simplest way.
+
+    bower install jquery.fontawesome-switch --save-dev
+
 Usage
 ====
 
